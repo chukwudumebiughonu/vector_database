@@ -1,0 +1,24 @@
+# Machine Learning & Data Science
+tensorflow-macos
+tensorflow-metal
+keras
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Vector Database & Embeddings
+faiss-cpu
+pinecone-client
+sentence-transformers
+
+# Jupyter & Development
+jupyter
+ipykernel
+black
+pylint
+pydot
+
+# Visualization
+plotly
+seaborn
