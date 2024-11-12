@@ -8,8 +8,10 @@ matplotlib
 scikit-learn
 
 # Vector Database & Embeddings
+openai
 faiss-cpu
 pinecone-client
+pinecone-datasets
 sentence-transformers
 
 # Jupyter & Development
@@ -22,3 +24,8 @@ pydot
 # Visualization
 plotly
 seaborn
+
+
+
+
+python-dotenv
